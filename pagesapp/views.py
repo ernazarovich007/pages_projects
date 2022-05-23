@@ -10,3 +10,7 @@ class AboutPagevIEW(TemplateView):
 
 class CallPageView(TemplateView):
     template_name = 'call.html'
+
+
+class TestClass(TemplateView):
+    pass
